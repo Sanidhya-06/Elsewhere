@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742119978110",
+    "project_id": "elsewhere-da0e3",
+    "storage_bucket": "elsewhere-da0e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742119978110:android:375f29f050013d1e33142f",
+        "android_client_info": {
+          "package_name": "com.example.elsewhere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROcoeP0X2qHIP4h23sSWqU8XPeEbyWiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
